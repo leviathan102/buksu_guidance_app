@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "619732486891",
+    "project_id": "buksu-online-guidance-app",
+    "storage_bucket": "buksu-online-guidance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619732486891:android:55b41cf69b0cc00bb38cae",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619732486891-87eucc0n43t8b1e5v9mmtq01jt4p1282.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "1e2d6414019265984c12839595ed46bca1b5fc48"
+          }
+        },
+        {
+          "client_id": "619732486891-lsb2ed7j3i6h9okiq621g5nr54a9bmo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8i6ufAK1NXupCgofC5J5vhyQfYb_Mr_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619732486891-lsb2ed7j3i6h9okiq621g5nr54a9bmo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
